@@ -1,10 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Doua-Zemouli/Doua-Zemouli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Mathematician turned Data Analyst\Scientist.
 
-Here are some ideas to get you started:
+-Summary of my journey:
+*Started as a Mathematician 
+*Bsc and Master in Mathematics (valedictorian) as well as PhD in Stocastic differential equations (Probability, statistics and Analysis)
+*Became a Math teacher for over 4 years and got incredibly sick of hearing students say "In real life, what is math used for anyway?"
+*Transitioned into Data Analytics\Science to show how a strong mathematical backround can help you solve problems, understand or optimise model performance, and interpret complex data that answer relevant questions.
 
+-Tech Stack: Python, Pandas, Numpy, Jupyter, BeautifulSoup, MySQL, Excel, Tableau, Power BI, Matlab, Latex.
+
+-Languages: Arabic (Native), English (Fluent), French (Fluent), Korean (B1) and German (A2).
+
+-You can contact me here: doua.zemouli@gmail.com
+
+<!--...
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-Skills: Python, SQL, Statistics
+-Future plans:
 -->
