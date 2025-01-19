@@ -8,7 +8,7 @@
 
 -Tech Stack: Python, Pandas, Numpy, Jupyter, BeautifulSoup, MySQL, Excel, Tableau, Power BI, Matlab, Latex.  
 -Languages: Arabic (Native), English (Fluent), French (Fluent), Korean (B1) and German (A2).  
--You can contact me here: doua.zemouli@gmail.com  
+-You can contact me [here](doua.zemouli@gmail.com)  
 
 <!--...
 - 🔭 I’m currently working on ...
