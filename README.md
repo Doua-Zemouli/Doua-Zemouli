@@ -3,7 +3,7 @@
 -Mathematician turned Data Analyst\Scientist. Here is a summary of my journey:  
 *Started as a Mathematician   
 *Bsc and Master in Mathematics (valedictorian) as well as PhD in Stocastic differential equations (Probability, statistics and Analysis)  
-*Became a Math teacher for over 4 years and got incredibly sick of hearing students say "In real life, what is math used for anyway?"  
+*Became a Math teacher for a couple of years and got incredibly sick of hearing students say "In real life, what is math used for anyway?"  
 *Transitioned into Data Analytics\Science to show how a strong mathematical backround can help you solve problems, understand or optimise model performance, and interpret complex data that answer relevant questions. 
 
 -Tech Stack: Python, Pandas, Numpy, Jupyter, BeautifulSoup, MySQL, Excel, Tableau, Power BI, Matlab, Latex.  
