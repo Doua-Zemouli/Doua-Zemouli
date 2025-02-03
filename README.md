@@ -6,7 +6,7 @@
 *Became a Math teacher for a couple of years and got incredibly sick of hearing students say "In real life, what is math used for anyway?"  
 *Transitioned into Data Analytics\Science to show how a strong mathematical backround can help you solve problems, understand or optimise model performance, and interpret complex data that answer relevant questions. 
 
--Tech Stack: Python, Pandas, Numpy, Jupyter, BeautifulSoup, MySQL, Excel, Tableau, Power BI, Matlab, Latex.  
+-Tech Stack: Python, Pandas, Numpy, Matplotlib, Scikit-learn, Jupyter, BeautifulSoup, Pycaret, MySQL, Excel, Tableau, Power BI, Matlab, Latex.  
 -Languages: Arabic (Native), English (Fluent), French (Fluent), Korean (B1) and German (A2).  
 -You can contact me [here](doua.zemouli@gmail.com)  
 
